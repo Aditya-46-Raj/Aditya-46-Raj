@@ -1,7 +1,3 @@
-<!-- BANNER -->
-<p align="center">
-  <img src="./assets/banner.png" alt="Aditya Raj Banner" width="100%">
-</p>
 
 <h1 align="center">Hi 👋 I'm Aditya Raj</h1>
 
@@ -39,7 +35,7 @@
 |----------|--------|
 | CodeChef | ⭐ 4-Star (1800+) · 730+ problems |
 | LeetCode | Knight (1980+) |
-| Codeforces | Pupil (1370) |
+| Codeforces | Specialist (1440+) |
 
 ---
 
@@ -120,8 +116,8 @@ Desktop app with multiple AI personas, PDF export, and intelligent multi-turn co
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aditya-46-Raj&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-46-Raj&layout=compact&theme=github_dark&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Aditya-46-Raj&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&cache_seconds=86400&v=1" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-46-Raj&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400&v=1" height="165"/>
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Aditya-46-Raj&theme=github-dark&hide_border=true" height="160"/>
